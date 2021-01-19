@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/SCRATCH2/arcjenkins2/slaves/ru20-custom-arcgnu1-arcoss/workspace/arcoss_verification/arc_gnu_toolchain_release/arc_gnu_toolchain_release/gcc/configure --target=arc-elf32 --with-cpu=arc700 --with-pkgversion='ARCompact/ARCv2 ISA elf32 toolchain 2020.09' --with-bugurl=https://github.com/foss-for-synopsys-dwc-arc-processors/toolchain/issues --enable-fast-install=N/A --with-endian=little --disable-werror --enable-languages=c,c++ --disable-shared --disable-tls --disable-threads --prefix=/SCRATCH2/arcjenkins2/slaves/ru20-custom-arcgnu1-arcoss/workspace/arcoss_verification/arc_gnu_toolchain_release/arc_gnu_toolchain_release/toolchain/../release_output/arc_gnu_2020.09_prebuilt_elf32_le_linux_install --with-gnu-as --with-gnu-ld --with-python=no --with-isl=no --with-newlib --with-headers=/SCRATCH2/arcjenkins2/slaves/ru20-custom-arcgnu1-arcoss/workspace/arcoss_verification/arc_gnu_toolchain_release/arc_gnu_toolchain_release/toolchain/../release_output/arc_gnu_2020.09_prebuilt_elf32_le_linux_install/arc-elf32/include --with-libs=/SCRATCH2/arcjenkins2/slaves/ru20-custom-arcgnu1-arcoss/workspace/arcoss_verification/arc_gnu_toolchain_release/arc_gnu_toolchain_release/toolchain/../release_output/arc_gnu_2020.09_prebuilt_elf32_le_linux_install/arc-elf32/lib 'CFLAGS_FOR_TARGET=-ffunction-sections -fdata-sections '";
+static const char thread_model[] = "single";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "cpu", "arc700" } };
